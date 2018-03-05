@@ -26,10 +26,10 @@ function sayHiToGrandma(string){
   } 
   else if (string = whisper){
     console.log("I can\'t hear you!")}
-    else if (string = shout){
+  else if (string = shout){
     console.log("YES INDEED!")
   }
-    else {}
+  else {}
 }
 
 
