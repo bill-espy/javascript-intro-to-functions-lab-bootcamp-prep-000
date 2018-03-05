@@ -7,12 +7,12 @@ function shout (string){
 
 
 
-function whisper(string) = {
-  return string.
+function whisper(string){
+  return string.toLowerCase()
 }
 
 
-function 
+function  
 
 
 
