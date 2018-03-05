@@ -7,6 +7,14 @@ function shout (string){
 
 
 
+function whisper(string) = {
+  return string.
+}
+
+
+function 
+
+
 
 function sayHiToGrandma(string){
   if (string === "I love you, Grandma."){
@@ -52,7 +60,3 @@ function sayHiToGrandma(string){
 
 
 
-function whisper(string) = {
-  string = string.toLowerCase
-  
-}
