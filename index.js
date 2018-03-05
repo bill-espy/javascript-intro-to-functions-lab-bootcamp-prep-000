@@ -5,9 +5,6 @@ function shout (string){
   return string.toUpperCase()
 }
 
-function whisper (string){
-return string.toLowerCase() 
-}
 
 
 
@@ -19,5 +16,43 @@ function sayHiToGrandma(string){
     else if (string = whisper){
     console.log("YES INDEED!")
   }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function whisper(string) = {
+  string = string.toLowerCase
   
 }
