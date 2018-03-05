@@ -29,7 +29,7 @@ function sayHiToGrandma(string){
     else if (string = shout){
     console.log("YES INDEED!")
   }
-  
+    else {}
 }
 
 
